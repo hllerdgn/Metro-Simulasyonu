@@ -16,8 +16,6 @@ Bu uygulamada, graf veri yapısı kullanılarak gerçek bir metro ağı modellen
 - **collections.deque**: BFS algoritmasında kuyruk veri yapısı olarak kullanılmıştır
 - **heapq**: A\* algoritmasında öncelik kuyruğu için kullanılmıştır
 - **typing**: Tip tanımlamaları için kullanılan kütüphane
-- **matplotlib**: Metro ağının görselleştirilmesi için kullanılmıştır
-- **networkx**: Graf yapısının oluşturulması ve yönetilmesi için kullanılmıştır
 
 ## Algoritmaların Çalışma Mantığı
 
