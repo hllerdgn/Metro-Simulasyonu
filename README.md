@@ -95,13 +95,8 @@ Uygulama, üç farklı metro hattından oluşan (Kırmızı, Mavi ve Turuncu) bi
 git clone https://github.com/username/metro-simulation.git
 ```
 
-2. Gerekli kütüphaneleri yükleyin:
 
-```
-pip install matplotlib networkx
-```
-
-3. Uygulamayı çalıştırın:
+2. Uygulamayı çalıştırın:
 
 ```
 python HalilErdogan_metro_simulation.py
